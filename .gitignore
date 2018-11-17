@@ -5,4 +5,3 @@ tallervenv
 db.sqlite3
 /static
 .DS_Store
-token.txt
